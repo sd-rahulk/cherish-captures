@@ -7,7 +7,7 @@ export function Footer() {
         <div className="grid md:grid-cols-4 gap-12 mb-16">
           <div className="md:col-span-2">
             <div className="flex items-baseline gap-2 mb-4">
-              <span className="font-serif text-3xl">Cherish</span>
+              <span className="font-serif text-3xl">aanurag</span>
               <span className="text-[10px] tracking-luxe text-[var(--color-gold)] uppercase">Photography</span>
             </div>
             <p className="text-background/70 max-w-md leading-relaxed">
@@ -37,13 +37,13 @@ export function Footer() {
             <ul className="space-y-3 text-sm text-background/80">
               <li>Mumbai, India</li>
               <li>+91 99999 99999</li>
-              <li>hello@cherishphoto.com</li>
+              <li>hello@aanuragphoto.com</li>
               <li>Mon — Sat · 10am — 7pm</li>
             </ul>
           </div>
         </div>
         <div className="border-t border-background/15 pt-8 flex flex-col md:flex-row gap-3 justify-between text-xs text-background/50">
-          <p>© {new Date().getFullYear()} Cherish Photography. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} aanurag Photography. All rights reserved.</p>
           <p>Crafted with care · Privacy · Terms</p>
         </div>
       </div>

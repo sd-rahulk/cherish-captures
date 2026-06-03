@@ -55,11 +55,11 @@ export function Contact() {
                 <p className="font-serif text-lg group-hover:text-gold transition-colors">Chat with us instantly</p>
               </div>
             </a>
-            <a href="mailto:hello@cherishphoto.com" className="flex items-start gap-4 group">
+            <a href="mailto:hello@aanuragphoto.com" className="flex items-start gap-4 group">
               <Mail className="h-5 w-5 text-gold mt-1" />
               <div>
                 <p className="text-[10px] tracking-luxe uppercase text-muted-foreground">Email</p>
-                <p className="font-serif text-lg group-hover:text-gold transition-colors">hello@cherishphoto.com</p>
+                <p className="font-serif text-lg group-hover:text-gold transition-colors">hello@aanuragphoto.com</p>
               </div>
             </a>
             <div className="flex items-start gap-4">

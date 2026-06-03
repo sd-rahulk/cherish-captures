@@ -3,13 +3,13 @@ import { ChevronLeft, ChevronRight, Quote, Star } from "lucide-react";
 import { SectionHeader } from "./SectionHeader";
 
 const testimonials = [
-  { name: "Priya & Arjun", event: "Wedding · Udaipur", text: "Cherish Photography captured our wedding beautifully. Every image feels emotional, natural, and timeless — we relive the day every time we open the album." },
+  { name: "Priya & Arjun", event: "Wedding · Udaipur", text: "aanurag Photography captured our wedding beautifully. Every image feels emotional, natural, and timeless — we relive the day every time we open the album." },
   { name: "Neha Kapoor", event: "Maternity Session", text: "I was nervous on camera, but the team made me feel so at ease. The photos brought me to tears — quiet, gentle, and unforgettable." },
   { name: "The Mehra Family", event: "Family Portraits", text: "Three generations in one frame, all genuinely laughing. They have a gift for catching the in-between moments that matter most." },
   { name: "Rahul Sinha", event: "Corporate Headshots", text: "Polished, modern, and turned around in three days. Easily the best headshot experience I've had in my career." },
   { name: "Ananya & Vikram", event: "Pre-Wedding · Goa", text: "Cinematic does not begin to describe it. The team treated our story like a film — every frame feels intentional." },
   { name: "Shreya Bansal", event: "Newborn Session", text: "Calm, patient, and incredibly skilled with our baby. The photos are tender and beautifully lit. Worth every rupee." },
-  { name: "Tanvi & Karan", event: "Wedding · Jaipur", text: "We have looked through hundreds of wedding portfolios. None felt as soulful as Cherish. They delivered beyond expectation." },
+  { name: "Tanvi & Karan", event: "Wedding · Jaipur", text: "We have looked through hundreds of wedding portfolios. None felt as soulful as aanurag. They delivered beyond expectation." },
   { name: "Rohit Verma", event: "Commercial · Brand Campaign", text: "Professional, on-brief, and creatively daring. Our campaign visuals outperformed last year by every metric." },
   { name: "Meera & Aakash", event: "Engagement Shoot", text: "We laughed the entire shoot. Then the gallery arrived and we cried. That tells you everything." },
   { name: "Kavya Iyer", event: "Maternity Session", text: "The light, the styling, the calm direction — it felt like a luxury experience from start to finish." },

@@ -29,7 +29,7 @@ export function Nav() {
     >
       <div className="container-luxe flex h-20 items-center justify-between">
         <a href="#top" className="flex items-baseline gap-2">
-          <span className="font-serif text-2xl tracking-tight">Cherish</span>
+          <span className="font-serif text-2xl tracking-tight">aanurag</span>
           <span className="text-[10px] tracking-luxe text-gold uppercase">Photography</span>
         </a>
         <nav className="hidden md:flex items-center gap-10">
