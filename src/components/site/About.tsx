@@ -1,4 +1,4 @@
-import photographer from "@/assets/photographer.jpg";
+import photographer from "@/assets/Niladri_Das.png";
 
 export function About() {
   return (

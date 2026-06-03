@@ -1,4 +1,4 @@
-import heroImg from "@/assets/c7ef216293985223d1ddb6ba175beb78.jpg";
+import heroImg from "@/assets/hero-wedding-DrTEKxt6.jpg";
 import { Star } from "lucide-react";
 
 export function Hero() {
