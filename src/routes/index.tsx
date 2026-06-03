@@ -19,9 +19,9 @@ import { Toaster } from "@/components/ui/sonner";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Cherish Photography — Luxury Wedding & Portrait Photographer" },
+      { title: "aanurag Photography — Luxury Wedding & Portrait Photographer" },
       { name: "description", content: "Cinematic wedding, maternity, newborn, family, and commercial photography. 1000+ happy clients · 4.9★ rated." },
-      { property: "og:title", content: "Cherish Photography — Luxury Wedding & Portrait Photographer" },
+      { property: "og:title", content: "aanurag Photography — Luxury Wedding & Portrait Photographer" },
       { property: "og:description", content: "Cinematic photography that transforms your most precious memories into timeless stories." },
       { property: "og:type", content: "website" },
       { property: "og:url", content: "/" },

@@ -15,7 +15,7 @@ export function WhyChoose() {
     <section className="py-24 md:py-36 bg-muted/30">
       <div className="container-luxe">
         <SectionHeader
-          eyebrow="Why Choose Cherish"
+          eyebrow="Why Choose aanurag"
           title="An Experience as Considered as the Photographs"
           subtitle="Six reasons couples, families, and brands trust us with their most important days."
         />
