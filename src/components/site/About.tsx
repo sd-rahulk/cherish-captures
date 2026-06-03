@@ -7,7 +7,7 @@ export function About() {
         <div className="relative">
           <img
             src={photographer}
-            alt="Founder of Cherish Photography holding a film camera"
+            alt="Founder of aanurag Photography holding a film camera"
             width={1024}
             height={1280}
             loading="lazy"
@@ -27,13 +27,13 @@ export function About() {
           <div className="gold-divider mb-8" />
           <div className="space-y-5 text-muted-foreground leading-relaxed">
             <p>
-              I'm Arjun Cherish — a photographer who believes the best images live in
+              I'm Arjun aanurag — a photographer who believes the best images live in
               the half-seconds between poses. For over seven years, I've travelled
               across India and beyond photographing weddings, families, and brands
               that value craft over trend.
             </p>
             <p>
-              Cherish Photography was built on a simple belief: that a great
+              aanurag Photography was built on a simple belief: that a great
               photograph isn't just looked at — it's remembered, returned to, and
               passed on. Every session, large or small, is approached with the same
               cinematic rigor and the same gentle eye.

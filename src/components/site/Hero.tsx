@@ -20,7 +20,7 @@ export function Hero() {
           <div className="flex items-center gap-3 mb-8">
             <span className="h-px w-12 bg-[var(--color-gold)]" />
             <span className="text-[11px] tracking-luxe uppercase text-[var(--color-gold)]">
-              Est. 2017 · Cherish Photography
+              Est. 2017 · aanurag Photography
             </span>
           </div>
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl leading-[1.05] mb-8">
